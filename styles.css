@@ -6,15 +6,15 @@ div {
     margin-left: auto;
     margin-right: auto;
     background-color: lightgreen;
+    max-width: 1200px;
+    padding: 20px;
+}
+h1 {
+    text-align: center;
+    margin-top: 0px;
 }
 .example {
-    display: inline-block;
-}
-.phrase {
-    text-align: left;
-   
-}
-.definition {
-    text-align: right;
-    
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20%;
 }
