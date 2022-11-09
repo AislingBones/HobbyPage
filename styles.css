@@ -9,9 +9,27 @@ div {
     max-width: 1200px;
     padding: 20px;
 }
+figure{
+    padding-left: 20%;
+}
+.map {
+    width: 40%;
+    height: auto;
+}
+figcaption {
+    width: 40%;
+    font-style: italic;   
+}
 h1 {
     text-align: center;
-    margin-top: 0px;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+h2{
+    padding-left: 5%;
+}
+section {
+    font-family: sans-serif;
 }
 .example {
     padding-top: 20px;
