@@ -2,5 +2,19 @@ body {
     background-color: forestgreen;
 }
 div {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
     background-color: lightgreen;
+}
+.example {
+    display: inline-block;
+}
+.phrase {
+    text-align: left;
+   
+}
+.definition {
+    text-align: right;
+    
 }
