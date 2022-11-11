@@ -13,7 +13,7 @@ figure{
     padding-left: 20%;
 }
 .map {
-    width: 50%;
+    max-width: 50%;
     height: auto;
 }
 figcaption {
